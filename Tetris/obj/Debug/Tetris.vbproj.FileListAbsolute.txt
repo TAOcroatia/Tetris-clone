@@ -1,0 +1,61 @@
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.vbproj.CoreCompileInputs.cache
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.xml
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Tetris\Tetris\bin\Debug\Tetris.xml
+D:\Tetris\Tetris\obj\Debug\Tetris.vbprojResolveAssemblyReference.cache
+D:\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+D:\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+D:\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache
+D:\Tetris\Tetris\obj\Debug\Tetris.vbproj.CoreCompileInputs.cache
+D:\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Tetris\Tetris\obj\Debug\Tetris.xml
+D:\Tetris\Tetris\obj\Debug\Tetris.pdb
+E:\Tetris\Tetris\bin\Debug\Tetris.exe.config
+E:\Tetris\Tetris\bin\Debug\Tetris.exe
+E:\Tetris\Tetris\bin\Debug\Tetris.pdb
+E:\Tetris\Tetris\bin\Debug\Tetris.xml
+E:\Tetris\Tetris\obj\Debug\Tetris.vbprojResolveAssemblyReference.cache
+E:\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+E:\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+E:\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache
+E:\Tetris\Tetris\obj\Debug\Tetris.vbproj.CoreCompileInputs.cache
+E:\Tetris\Tetris\obj\Debug\Tetris.exe
+E:\Tetris\Tetris\obj\Debug\Tetris.xml
+E:\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.vbprojResolveAssemblyReference.cache
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.cache
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.vbproj.CoreCompileInputs.cache
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.xml
+C:\Users\TAO_Croatia\Desktop\hdd\Backup\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.vbprojAssemblyReference.cache
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.cache
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.vbproj.CoreCompileInputs.cache
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.xml
+C:\Users\TAO_Croatia\Documents\BACKUP TAO\Backup\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.vbprojAssemblyReference.cache
+C:\Users\TAO_Croatia\source\repos\Tetris\Tetris\obj\Debug\Tetris.Dataform.resources
